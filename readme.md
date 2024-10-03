@@ -2,7 +2,7 @@
 
 ### Objective
 
-The goal is to run an EKS cluster with Amazon EBS (Elastic Block Store) for persistent storage.
+The goal is to run an EKS cluster with Amazon EBS.
 
 ### Steps
 
